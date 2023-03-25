@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(26, 32, 39);
+}
+
+.css-1t6e9jv-MuiCardActions-root{
+  transition: .3s;
+  opacity: 0;
+}
+
+.MuiGrid-item:hover .css-1t6e9jv-MuiCardActions-root{
+  opacity: 1;
+}
